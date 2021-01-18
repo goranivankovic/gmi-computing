@@ -8,7 +8,7 @@ export default class FormFile extends Component {
             <div>
               <Container>
                 <Row>
-                  <Col className="col-12"><h3 className="text-danger">Posalji kontakt</h3> </Col>
+                  <Col className="col-12"><h4 className="text-danger">Posalji kontakt</h4> </Col>
                   <Col className="col-md-8 col-12">
 
 

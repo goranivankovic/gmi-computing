@@ -15,10 +15,10 @@ export default class NavBarKontakt extends Component {
 <Col className="col-sm-7 col-4 justify" >
     <Nav className="mr-auto navBarItmes">
     <Anime translateY={[-250,0]} duration={2000} delay={(el,i)=>{return i * 100}}>
-    <Link to="/"><Nav.Item className="text-secondary h5">Početna</Nav.Item></Link>
- <Link to="/usluge"><Nav.Item className="text-secondary h5">Usluge</Nav.Item></Link>   
-  <Link to="/cenovnik"> <Nav.Item className="text-secondary h5">Cenovnik</Nav.Item></Link> 
-   <Link to="/kontakt"> <Nav.Item className="text-secondary h5">Kontakt</Nav.Item></Link>
+    <Link to="/"><Nav.Item className="text-secondary h6">Početna</Nav.Item></Link>
+ <Link to="/usluge"><Nav.Item className="text-secondary h6">Usluge</Nav.Item></Link>   
+  <Link to="/cenovnik"> <Nav.Item className="text-secondary h6">Cenovnik</Nav.Item></Link> 
+   <Link to="/kontakt"> <Nav.Item className="text-secondary h6">Kontakt</Nav.Item></Link>
 
 </Anime>
     </Nav>

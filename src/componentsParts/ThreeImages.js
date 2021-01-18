@@ -31,7 +31,7 @@ export default class ThreeImages extends Component {
         return (
             <div>
                 <Container className="threeImages">
-                <h2 className="text-center text-secondary">Tehnologije koje koristimo</h2>
+                <h4 className="text-center text-secondary">Tehnologije koje koristimo</h4>
                     <Row className="threeImaseRed">
                         
                         <Col className="col-md-5 col-10" onMouseOver={this.scaleTo92} onMouseOut={this.scaleTo100}>

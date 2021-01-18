@@ -21,7 +21,7 @@ export default class ImageSlider extends Component {
       alt="First slide"
     />
     <Carousel.Caption>
-      <h4>Najsavremenije Tehnologije</h4>
+      <h4 className="l">Najsavremenije Tehnologije</h4>
   
     </Carousel.Caption>
   </Carousel.Item>

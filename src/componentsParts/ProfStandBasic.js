@@ -15,7 +15,7 @@ export default class ProfStandBasic extends Component {
                     
               
                     <Row className="pbsRed" >
-                        <Col className="col-12"> <h2 className="text-center text-secondary">Paketi</h2></Col>
+                        <Col className="col-12"> <h4 className="text-center text-secondary">Paketi</h4></Col>
                         
                         <Col className="col-lg-4 col-10" >
                         <br></br>
