@@ -32,7 +32,7 @@ export default class ImageSlider extends Component {
       alt="Third slide"
     />
     <Carousel.Caption>
-      <h4>Najbolji Dizajn</h4>
+      <h4 className="l">Najbolji Dizajn</h4>
 
     </Carousel.Caption>
   </Carousel.Item>
@@ -43,7 +43,7 @@ export default class ImageSlider extends Component {
       alt="Third slide"
     />
     <Carousel.Caption>
-      <h4>Zajedno do Uspeha</h4>
+      <h4 className="l">Zajedno do Uspeha</h4>
 
     </Carousel.Caption>
   </Carousel.Item>

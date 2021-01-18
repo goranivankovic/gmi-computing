@@ -11,7 +11,7 @@ export default class FooterPocetna extends Component {
             <div>
                 <Container className="footerPocetnaMain border">
                     <Row>
-                        <Col className="col-12 text-center"> <h2><span className="text-dark navBrend">gmi-computing </span></h2>
+                        <Col className="col-12 text-center"> <h2><span className="text-dark navBrend l">gmi-computing </span></h2>
                         </Col>
                         <Col className="col-12">
                         <h5>Email:<MdEmail />   gogadesignweb@gmail.com</h5><br></br>

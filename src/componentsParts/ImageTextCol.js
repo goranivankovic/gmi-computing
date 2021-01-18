@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import {Container,Row,Col,Navbar,Nav,Button,Carousel } from 'react-bootstrap';
 import{Link } from 'react-router-dom'
-import laptop from '../img/laptop.jpg'
+import laptop2 from '../img/laptop2.jpg'
 
 export default class ImageTextCol extends Component {
     render() {
@@ -10,11 +10,11 @@ export default class ImageTextCol extends Component {
                 <Container fluid className="imgAndTextMain">
                     <Row>
                         <Col className="col-md-6 col-12 imageAndTextColona">
-                            <img src={laptop}  />
+                            <img src={laptop2}  />
 
                         </Col>
                         <Col className="col-md-6 col-12 imageAndTextColona">
-                            <h2 className="text-center text-primary"><span className="text-dark navBrend">gmi-computing </span></h2>
+                            <h2 className="text-center text-primary l"><span className="text-dark navBrend">gmi-computing </span></h2>
 
                             <p>
                             <br></br>

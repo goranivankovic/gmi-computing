@@ -9,7 +9,7 @@ export default class NavBarCenovnik extends Component {
             <div>
 
 <Navbar collapseOnSelect expand="md" bg="danger" variant="dark">
-          <Col className="col-sm-4 col-4"><Anime translateX={[350,0]} duration={2500}><Navbar.Brand className="text-dark h1"><span className="text-warning navBrend">gmi-computing </span></Navbar.Brand></Anime></Col>   
+          <Col className="col-sm-4 col-4"><Anime translateX={[350,0]} duration={2500}><Navbar.Brand className="text-dark h1 l"><span className="text-warning navBrend">gmi-computing </span></Navbar.Brand></Anime></Col>   
 <Col className="col-sm-7 col-4 justify" >
     <Nav className="mr-auto navBarItmes">
     <Anime translateY={[-250,0]} duration={2000} delay={(el,i)=>{return i * 100}}>
