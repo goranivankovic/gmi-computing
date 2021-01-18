@@ -19,7 +19,7 @@ export default class TriKoraka extends Component {
                         
                             <Card.Body>
                             <Card.Title className="text-center text-light bg-warning psbT" >Prvi korak</Card.Title>
-                            <Card.Text className="h5 text-bottom h-75 psbD">
+                            <Card.Text className="h6 text-bottom h-75 psbD">
                             
 Dogovor sa musterijom:<br></br>
 1.Telefonski poziv.<br></br>
@@ -41,7 +41,7 @@ Dogovor sa musterijom:<br></br>
                             
                             <Card.Body>
                             <Card.Title className="text-center text-light bg-warning psbT">Drugi Korak</Card.Title>
-                            <Card.Text  className="h5 text-bottom h-75 psbD">
+                            <Card.Text  className="h6 text-bottom h-75 psbD">
                             Broj stranica - neograničen Mi popunjavamo do 20 stranica CSS responsive originalan dizajn Administratorski deo sajta Kontakt Forma Online text editor Galerija slika na svakoj stranici
                              Cena:200evra
 
