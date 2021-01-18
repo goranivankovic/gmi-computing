@@ -1,0 +1,103 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navBarItmes{
+    width: 100%;
+    display:flex;
+    justify-content: space-around;
+    align-items: flex-end;
+
+}
+.navBrend::after{
+    content: ' ';
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color: red;
+    transform: rotate(30deg);
+}
+.navBrend:hover::after{
+    transition:2000ms;
+    transform: rotate(750deg)
+}
+.slika{
+    height: 92%;
+    width: 100%;
+}
+.slika img{
+   height: 92vh;
+    width: 100%;
+}
+.threeImages{
+    height: 100%;
+    width: 100%;
+  
+}
+.threeImaseRed{
+    display: flex;
+    justify-content: space-around;
+}
+.threeImages .carta img{
+    max-height: 35vh;
+}
+.psbMain{
+    height: 100%;
+    width: 100%;
+  
+   
+
+}
+
+.psbMain .psb{
+    height: 60vh;
+    width: 100%;
+
+   
+}
+.psbD{
+    display: flex;
+    align-items: flex-end;
+}
+.psb .psbT{
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.psbMain .pbsRed{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.imgAndTextMain{
+    height: 100%;
+    width: 100%;
+}
+.imgAndTextMain .imageAndTextColona{
+    height: 80vh;
+    width: 100%;
+}
+.imgAndTextMain .imageAndTextColona img{
+    height: 100%;
+    width: 100%;
+}
+
+ .footerPocetnaMain{
+
+    width: 100%;
+    background-color: lightgrey;
+} 
+.footerUslugesMain{
+    width: 100%;
+    height: 100%;
+    background-color: firebrick;
+
+}
+.triKorakaMain{
+    height: 100%;
+    width: 100%;
+}
+
