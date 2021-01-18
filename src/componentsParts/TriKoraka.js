@@ -61,7 +61,7 @@ Dogovor sa musterijom:<br></br>
                            
                             <Card.Body>
                             <Card.Title className="text-center text-light bg-warning psbT">Treci Korak</Card.Title>
-                            <Card.Text className="h5 text-bottom h-75 psbD">
+                            <Card.Text className="h6 text-bottom h-75 psbD">
                             Broj stranica - neograničen Mi popunjavamo do 30 stranica CSS responsive originalan dizajn Administratorski deo sajta Kontakt Forma Galerija slika na svakoj stranici Katalog proizvoda Neograničen broj proizvoda Osnovna SEO optimizacija.
 Cena:300 evra
 
